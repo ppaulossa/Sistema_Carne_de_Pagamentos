@@ -1,0 +1,9 @@
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\bin\Release\Sistema Carne.exe.config
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Release\Sistema Carne.csproj.ResolveComReference.cache
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\bin\Release\Sistema Carne.exe
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\bin\Release\Sistema Carne.pdb
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Release\Sistema_Carne.Properties.Resources.resources
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Release\Sistema_Carne.TelaCarne.resources
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Release\Sistema Carne.csproj.GenerateResource.Cache
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Release\Sistema Carne.exe
+C:\Users\Paulo Henrique\Documents\Visual Studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Release\Sistema Carne.pdb

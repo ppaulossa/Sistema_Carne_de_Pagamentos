@@ -1,0 +1,10 @@
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\bin\Debug\Sistema Carne.exe.config
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\bin\Debug\Sistema Carne.exe
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\bin\Debug\Sistema Carne.pdb
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Debug\Sistema Carne.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Debug\Sistema_Carne.Properties.Resources.resources
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Debug\Sistema_Carne.TelaCarne.resources
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Debug\Sistema Carne.csproj.GenerateResource.Cache
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Debug\Sistema Carne.exe
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Debug\Sistema Carne.pdb
+C:\Users\Paulo Henrique\documents\visual studio 2015\Projects\Sistema Carne\Sistema Carne\obj\Debug\Sistema Carne.csproj.ResolveComReference.cache
